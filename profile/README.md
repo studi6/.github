@@ -1,4 +1,4 @@
-Studi6 is part of the UBC Gamedev community here at the University of British Columbia. In a team of talented artists, writers, and programmers, we are working on our very first game. Stay tuned!
+Studi6 is part of the UBC Gamedev community here at the University of British Columbia. With a team of talented artists, writers, and programmers, we are working on our very first game. Stay tuned!
 
 <!--
 
